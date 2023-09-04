@@ -10,9 +10,9 @@ Yolanda Franco
 1. [Resumen](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#resumen)
 2. [Introducción](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#introducci%C3%B3n)
 3. [Revisión Preliminar de la Literatura](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#revisi%C3%B3n-preliminar-de-la-literatura)
-4. Descripción de los datos
+4. [Descripción de los datos](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#descripci%C3%B3n-de-los-datos)
 5. Propuesta Metodológica
-6. Bibliografia
+6. [Bibliografia](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#bibliografia)
 7. Anexos y Archivos
 
 ### Resumen
