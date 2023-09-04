@@ -56,3 +56,6 @@ Durango-Cohen, P., Durango-Cohen, E., & Torres, R. (2013). A Bernoulli-Gaussian 
 Zhu, L., He, Y., Chen, Q., & Hu, M. (2017). It's the thought that counts: The effects of construal level priming and donation proximity on consumer response to donation framing. Journal of Business Research, 76, 44-51. https://doi.org/10.1016/J.JBUSRES.2017.03.007.
  
 Rocha, A., Campos, D., Farina, M., Pacini, G., Girotto, M., & Hilbig, A. (2017). Using body donor demographics to assist the implementation of donation programs in Brazil. Anatomical Sciences Education, 10. https://doi.org/10.1002/ase.1687.
+
+## Anexos y Archivos
+Ver Archivos del Cliente en la siguiente [carpeta](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/tree/main/Archivos_Cliente)
