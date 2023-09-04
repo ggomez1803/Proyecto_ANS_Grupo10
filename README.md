@@ -34,7 +34,8 @@ La donación a causas benéficas es una práctica ampliamente valorada en la soc
 Un estudio realizado por Oxley da Rocha et al. (2017) se centró en el perfil demográfico de los solicitantes al Programa de Donación de Cuerpos (BDP) en la Universidad Federal de Ciencias de la Salud de Porto Alegre, Brasil. Los resultados revelaron que el solicitante típico en Brasil es una mujer blanca de más de 60 años, soltera, afiliada a un grupo religioso, de clase media y con educación secundaria y/o título universitario. La motivación principal de los donantes fue un gesto altruista, con el deseo de contribuir a la sociedad y la ciencia. Este estudio resalta la importancia de comprender el perfil demográfico de los donantes potenciales y sugiere que esta comprensión puede ayudar en la dirección de campañas de información sobre la donación de cuerpos hacia audiencias específicas. Aunque se centra en donaciones de cuerpos, esta idea de segmentación basada en características demográficas puede aplicarse a otras formas de donaciones benéficas. Además, destaca la necesidad de considerar la cultura y el contexto regional al diseñar estrategias de recaudación de fondos, ya que las características de los donantes pueden variar según la ubicación geográfica y las costumbres locales. Estos hallazgos tienen importantes implicaciones para las organizaciones benéficas y las empresas que buscan maximizar su impacto a través de estrategias efectivas de recaudación de fondos y marketing relacionado con causas.
 
 ## Descripción de los datos
-Ver documento adjunto para mayor detalle de la EDA (Exploración de Datos y analisis preliminar)
+Ver cuaderno de jupyter notebook adjunto para mayor detalle del EDA.
+https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/Exploracion_de_Datos_.ipynb
 
 ## Propuesta Metodológica
 ![image](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/assets/84612583/7650cc7d-2a4b-4ff3-abbd-3e14c60b1011)
