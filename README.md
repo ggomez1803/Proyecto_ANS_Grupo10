@@ -8,7 +8,7 @@ Yolanda Franco
 ## Tabla de Contenido - Propuesta Inicial Proyecto
 
 1. Resumen
-2. Introducción
+2. [Introducción](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#introducci%C3%B3n)
 3. Revisión Preliminar de la Literatura
 4. Descripción de los datos
 5. Propuesta Metodológica
