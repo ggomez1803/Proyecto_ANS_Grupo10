@@ -38,6 +38,7 @@ Ver cuaderno de jupyter notebook adjunto para mayor detalle del EDA.
 https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/Exploracion_de_Datos_.ipynb
 
 ## Propuesta Metodológica
+Dentro de un taller de ideación que se realizó con PI, se resaltaron varios “dolores” donde se priorizaron y se buscó llegar a la pregunta de negocio que se buscará resolver por medio de tecnicas de Aprendizaje no supervisado basandonos especialmente en siguiente indicador.
 ![image](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/assets/84612583/7650cc7d-2a4b-4ff3-abbd-3e14c60b1011)
 
 
