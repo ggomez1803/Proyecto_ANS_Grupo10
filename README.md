@@ -13,7 +13,7 @@ Yolanda Franco
 4. [Descripción de los datos](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#descripci%C3%B3n-de-los-datos)
 5. [Propuesta Metodológica](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#propuesta-metodol%C3%B3gica)
 6. [Bibliografia](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#bibliografia)
-7. Anexos y Archivos
+7. [Anexos y Archivos](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#anexos-y-archivos)
 
 ### Resumen
 En este proyecto, se busca desarrollar un modelo de segmentación de donantes para una ONG que ayude a alinear correctamente las estrategias diseñadas dentro de la organización para tener un mejor aprovechamiento de los recursos y llegar a ser costos eficientes en todos los esfuerzos que se ejecutan.
