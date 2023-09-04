@@ -59,3 +59,9 @@ Rocha, A., Campos, D., Farina, M., Pacini, G., Girotto, M., & Hilbig, A. (2017).
 
 ## Anexos y Archivos
 Ver Archivos del Cliente en la siguiente [carpeta](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/tree/main/Archivos_Cliente)
+
+En esta carpeta podran encontrar lo siguiente que es la base inicial de datos con la que se va a trabajar el proyecto:
+
+- Base cuentas
+- Base Donantes = Base de personas naturales donantes para PI
+- Transacciones Juridicos
