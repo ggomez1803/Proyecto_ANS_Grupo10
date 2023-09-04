@@ -9,7 +9,7 @@ Yolanda Franco
 
 1. [Resumen](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#resumen)
 2. [Introducción](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#introducci%C3%B3n)
-3. Revisión Preliminar de la Literatura
+3. [Revisión Preliminar de la Literatura](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#revisi%C3%B3n-preliminar-de-la-literatura)
 4. Descripción de los datos
 5. Propuesta Metodológica
 6. Bibliografia
@@ -32,6 +32,9 @@ PI busca responder la siguiente pregunta clave: "¿Cuáles son los nuevos perfil
 La donación a causas benéficas es una práctica ampliamente valorada en la sociedad contemporánea. La efectividad de las estrategias de recaudación de fondos y el impacto de las donaciones pueden variar significativamente según cómo se segmente a la audiencia de donantes (Nelson, Schlüter, & Vance, 2017). La investigación de Müller, Fries y Gedenk (2014) destaca la importancia del tamaño de la donación en el contexto del marketing relacionado con causas (CM) y cómo puede influir tanto en la elección de marca como en la imagen de marca. Sus resultados sugieren que el tamaño de la donación puede influir en la elección de los consumidores y en la percepción de la marca. Este estudio subraya la importancia de seleccionar el tamaño de la donación adecuado al considerar la estrategia de recaudación de fondos, lo que implica una forma de segmentación basada en el tamaño de la donación. En un entorno universitario, Durango-Cohen, Durango-Cohen y Torres (2013) proponen un modelo estadístico de mezcla Bernoulli-Gaussiana para segmentar a los donantes. Esto resalta la relevancia de la segmentación para adaptar estrategias de recaudación de fondos. El estudio de Zhu, He y Chen (2017) resalta cómo la presencia de otros consumidores y la presentación de la donación pueden influir en la percepción de la marca y la intención de donación de los consumidores, subrayando la importancia de considerar el contexto y el tipo de apelación en la solicitud de donaciones.
  
 Un estudio realizado por Oxley da Rocha et al. (2017) se centró en el perfil demográfico de los solicitantes al Programa de Donación de Cuerpos (BDP) en la Universidad Federal de Ciencias de la Salud de Porto Alegre, Brasil. Los resultados revelaron que el solicitante típico en Brasil es una mujer blanca de más de 60 años, soltera, afiliada a un grupo religioso, de clase media y con educación secundaria y/o título universitario. La motivación principal de los donantes fue un gesto altruista, con el deseo de contribuir a la sociedad y la ciencia. Este estudio resalta la importancia de comprender el perfil demográfico de los donantes potenciales y sugiere que esta comprensión puede ayudar en la dirección de campañas de información sobre la donación de cuerpos hacia audiencias específicas. Aunque se centra en donaciones de cuerpos, esta idea de segmentación basada en características demográficas puede aplicarse a otras formas de donaciones benéficas. Además, destaca la necesidad de considerar la cultura y el contexto regional al diseñar estrategias de recaudación de fondos, ya que las características de los donantes pueden variar según la ubicación geográfica y las costumbres locales. Estos hallazgos tienen importantes implicaciones para las organizaciones benéficas y las empresas que buscan maximizar su impacto a través de estrategias efectivas de recaudación de fondos y marketing relacionado con causas.
+
+## Descripción de los datos
+Ver documento adjunto para mayor detalle de la EDA (Exploración de Datos y analisis preliminar)
 
 ## Bibliografia
 
