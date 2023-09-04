@@ -36,6 +36,10 @@ Un estudio realizado por Oxley da Rocha et al. (2017) se centró en el perfil de
 ## Descripción de los datos
 Ver documento adjunto para mayor detalle de la EDA (Exploración de Datos y analisis preliminar)
 
+## Propuesta Metodológica
+![image](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/assets/84612583/342f60d3-2ab6-495d-af4f-32f5e6be5623)
+
+
 ## Bibliografia
 
 https://bloomerang.co/blog/donor-segmentation/
