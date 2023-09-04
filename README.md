@@ -37,7 +37,8 @@ Un estudio realizado por Oxley da Rocha et al. (2017) se centró en el perfil de
 Ver documento adjunto para mayor detalle de la EDA (Exploración de Datos y analisis preliminar)
 
 ## Propuesta Metodológica
-![image](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/assets/84612583/d12fe20e-80f3-4ef3-b0a8-b2c3bd413076)
+![image](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/assets/84612583/7650cc7d-2a4b-4ff3-abbd-3e14c60b1011)
+
 
 
 ## Bibliografia
