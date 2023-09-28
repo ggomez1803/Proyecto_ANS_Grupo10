@@ -12,9 +12,11 @@ Yolanda Franco
 3. [Revisión Preliminar de la Literatura](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#revisi%C3%B3n-preliminar-de-la-literatura)
 4. [Descripción de los datos](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#descripci%C3%B3n-de-los-datos)
 5. [Propuesta Metodológica](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#propuesta-metodol%C3%B3gica)
-6. [Resultados y Discusión](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/edit/main/README.md#resultados-y-discusi%C3%B3n)
-7. [Bibliografia](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#bibliografia)
-8. [Anexos y Archivos](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#anexos-y-archivos)
+6. [Resultados y Discusión](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/tree/main#resultados-y-discusi%C3%B3n)
+7. [Posibles acciones](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/tree/main#posibles-acciones)
+8. [Conclusiones](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/tree/main#conclusi%C3%B3n)
+9. [Bibliografia](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#bibliografia)
+10. [Anexos y Archivos](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/blob/main/README.md#anexos-y-archivos)
 
 ### Resumen
 En este proyecto, se busca desarrollar un modelo de segmentación de donantes para una ONG que ayude a alinear correctamente las estrategias diseñadas dentro de la organización para tener un mejor aprovechamiento de los recursos y llegar a ser costos eficientes en todos los esfuerzos que se ejecutan.
