@@ -137,3 +137,6 @@ En esta carpeta podran encontrar lo siguiente que es la base inicial de datos co
 ##### Diagrama dependencia archivos
 
 ![image](https://github.com/ggomez1803/Proyecto_ANS_Grupo10/assets/84612583/fd2421b5-7d2e-4030-92e0-2c940a1e6f62)
+
+##### Link Video Resumen Proyecto
+https://youtu.be/dTSXqLwMp-Y
