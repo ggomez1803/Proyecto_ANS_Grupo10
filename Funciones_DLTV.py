@@ -21,8 +21,16 @@ def lifespan(df: pd.DataFrame):
     # Eliminar registros con valor 0
     df = df[df['VL_NChurn'] != 0]
 
+    tope_edad = 90
+
     # Calcular el lifespan
     df['VL_Lifespan'] = 1/df['VL_NChurn']
+
+    # Reemplazar valores infinitos por el tope de edad
+    df['VL_Lifespan'].replace(np.inf, tope_edad, inplace=True)
+
+    # Si la edad + lifespan es mayor al tope de edad, se reemplaza el lifespan por el tope de edad menos la edad
+    df['VL_Lifespan'] = np.where(df['VL_Edad'] + df['VL_Lifespan'] > tope_edad, tope_edad - df['VL_Edad'], df['VL_Lifespan'])
     return df
 
 #Función que calcula el valor presente acumulado
